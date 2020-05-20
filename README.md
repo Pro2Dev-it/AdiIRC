@@ -1,0 +1,2 @@
+# AdiIRC
+Translate resource
